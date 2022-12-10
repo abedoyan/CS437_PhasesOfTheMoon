@@ -2,7 +2,7 @@
 # Final Project
 # CS437 Internet of Things
 
-# Code based off of and influenced by code from Henner Zeller
+# Code based off of and influenced by code from Henner Zeller 
 # https://github.com/hzeller/rpi-rgb-led-matrix.git
 
 #!/usr/bin/env python
